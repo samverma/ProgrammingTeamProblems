@@ -1,5 +1,5 @@
 //Sam Verma
-//solution to Exact Change
+//Exact Change
 import java.util.*;
 import java.io.*;
 public class change {
