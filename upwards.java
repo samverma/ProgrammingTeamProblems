@@ -1,5 +1,5 @@
 //Sam Verma
-//solution to Up-wards
+//Up-wards
 import java.util.Scanner;
 
 public class upwards {
