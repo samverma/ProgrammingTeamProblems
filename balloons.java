@@ -1,5 +1,5 @@
 //Sam Verma
-//solution to Balloons
+//Balloons
 import java.util.*;
 public class balloons implements Comparable<balloons> {
 	//num balloons a team needs and dist to A and B
