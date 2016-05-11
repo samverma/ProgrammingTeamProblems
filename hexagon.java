@@ -1,5 +1,5 @@
 //Sam Verma
-//solution to Hexagon Perplexagon
+//Hexagon Perplexagon
 import java.util.*;
 
 public class hexagon {
