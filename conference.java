@@ -1,5 +1,5 @@
 //Sam Verma
-//solution to Conference
+//Conference
 import java.util.Scanner;
 
 public class conference {
